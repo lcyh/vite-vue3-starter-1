@@ -1,5 +1,6 @@
 <template>
   <div class="home-container page-container">
+    <p>Vue3测试</p>
     <img class="vue-element-plus-logo" alt="Vue logo" src="../assets/logo.png" />
     <div class="page-title">Vite2.x + Vue3.x + TypeScript + Element Plus</div>
   </div>
